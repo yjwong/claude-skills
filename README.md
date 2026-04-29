@@ -28,3 +28,7 @@ ln -s ~/Documents/claude-skills/critic ~/.claude/skills/critic
 
 Symlinks are recommended over copies so `git pull` updates flow through with
 no re-install.
+
+## License
+
+MIT — see [LICENSE](LICENSE).
